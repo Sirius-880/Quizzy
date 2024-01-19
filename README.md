@@ -48,7 +48,7 @@ Dependencies:
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/akashgiricse/lets-quiz.git
+git clone https://github.com/Sirius-880/Quizzy.git
 cd lets_quiz
 ```
 
