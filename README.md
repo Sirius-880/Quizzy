@@ -91,8 +91,4 @@ python manage.py runserver
 ```
 
 
-## License
 
-MIT License
-
-Copyright (c) 2022 Akash Giri.
