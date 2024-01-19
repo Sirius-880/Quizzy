@@ -43,7 +43,6 @@ Dependencies:
 
 - Python 3.6.x
 - Django 1.11.x
-- Ubuntu 17.04 or later or Linux Mint 18.2 or later
 
 ### 1. Clone this repository
 
